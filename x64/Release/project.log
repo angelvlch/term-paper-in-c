@@ -1,0 +1,11 @@
+﻿  account.cpp
+D:\курсовая_работа\trpo\project\account.cpp(94,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\курсовая_работа\trpo\project\account.cpp(95,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  plane.cpp
+  project.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\курсовая_работа\trpo\project\account.cpp(185): warning C4715: 'check_login': not all control paths return a value
+  All 330 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  project.vcxproj -> D:\курсовая_работа\trpo\x64\Release\project.exe
